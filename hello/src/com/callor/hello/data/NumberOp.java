@@ -13,11 +13,11 @@ public class NumberOp {
 		System.out.println(30 / 40);
 		//정수의 나머지 연산
 		 System.out.println(30 % 40);
-	}	sysout
+	}	
 	//실수와 실수를 나눗셈 연산
 	//연산결과도
 
-}
 
-	}
+
+	
 }
